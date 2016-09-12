@@ -45,4 +45,4 @@ i) Suppose that because of the high profit margin, the store would like to incre
 the sales of incidentals. Based on your observations in previous parts discuss
 how this could be accomplished (e.g., should customers with specific
 characteristics be targeted? Should certain types of movies be preferred? etc.).
-Explain your answer based on your analysis of the data.
+Explain your answer based on your analysis of the data.
